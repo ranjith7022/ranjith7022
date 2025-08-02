@@ -1,4 +1,7 @@
 ### Hello i'm ranjith
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/5ece3596-eb24-4d7a-809d-5378ed1d1c6e/thumbnail" >
+</p>
 
 <!--
 **ranjith7022/ranjith7022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
